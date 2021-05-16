@@ -9,4 +9,4 @@ I updated my portfolio by adding my resume, contacts and links to projects.
 https://github.com/BigPorg/Portfolio.v2/blob/main/assets/screenshot%20of%20page.PNG
 
 ## Link
-
+https://bigporg.github.io/Portfolio.v2/
