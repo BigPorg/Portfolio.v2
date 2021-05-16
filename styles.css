@@ -1,0 +1,45 @@
+/* bootstrap and css */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.header {
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    height: 0px;
+    width: 100%;
+    margin-bottom: 0px;
+    background-color: blanchedalmond;
+}
+
+p {
+    font-size: 20px;
+    overflow: auto;
+    text-align: left;
+}
+
+.smallify{
+    width: 600px;
+    height: auto;
+}
+
+.footer {
+    background-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-decoration:blanchedalmond;
+}
+
+/* media queries */
+@media only screen and (max-width: 1024px) {
+    /* make everrything go left */
+}
